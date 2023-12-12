@@ -1,0 +1,170 @@
+# depslib dependency file v1.0
+1694701951 source:c:\users\alumno\desktop\parcial_parte_2\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"CLASS_FECHA.h"
+	"CargarCadena.h"
+	"CLASS_JUGADOR.h"
+	"CLASS_ARCHIVO_JUGADORES.h"
+	"MenuDeportes.h"
+	"Menu_Jugadores.h"
+
+1694692955 c:\users\alumno\desktop\parcial_parte_2\menudeportes.h
+
+1694701843 c:\users\alumno\desktop\parcial_parte_2\class_fecha.h
+
+1694696723 c:\users\alumno\desktop\parcial_parte_2\class_jugador.h
+
+1694703683 c:\users\alumno\desktop\parcial_parte_2\menu_jugadores.h
+
+1694696913 c:\users\alumno\desktop\parcial_parte_2\cargarcadena.h
+
+1694703762 c:\users\alumno\desktop\parcial_parte_2\class_archivo_jugadores.h
+
+1697113234 source:d:\tp-parcial\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	"CLASS_FECHA.h"
+	"CargarCadena.h"
+	"CLASS_DEPORTES.h"
+	"CLASS_ARCHIVO_DEPORTES.h"
+	"CLASS_JUGADOR.h"
+	"CLASS_ARCHIVO_JUGADORES.h"
+	"FUNCIONES_CONFIGURACION.h"
+	"Reportes.h"
+	"DatosInicio.h"
+	"MenuDeportes.h"
+	"Menu_Jugadores.h"
+	"MenuConfiguracion.h"
+	"menuReportes.h"
+	"Dynamic.h"
+
+1696462454 d:\tp-parcial\class_fecha.h
+
+1694696914 d:\tp-parcial\cargarcadena.h
+
+1696465076 d:\tp-parcial\class_jugador.h
+
+1696461282 d:\tp-parcial\class_archivo_jugadores.h
+
+1696459556 d:\tp-parcial\menudeportes.h
+
+1696459310 d:\tp-parcial\menu_jugadores.h
+
+1696446612 d:\tp-parcial\class_deportes.h
+
+1696463960 d:\tp-parcial\class_archivo_deportes.h
+
+1696460810 d:\tp-parcial\funciones_configuracion.h
+
+1696466032 d:\tp-parcial\menuconfiguracion.h
+
+1697113234 source:e:\tp-parcial\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	"CLASS_FECHA.h"
+	"CargarCadena.h"
+	"CLASS_DEPORTES.h"
+	"CLASS_ARCHIVO_DEPORTES.h"
+	"CLASS_JUGADOR.h"
+	"CLASS_ARCHIVO_JUGADORES.h"
+	"FUNCIONES_CONFIGURACION.h"
+	"Reportes.h"
+	"DatosInicio.h"
+	"MenuDeportes.h"
+	"Menu_Jugadores.h"
+	"MenuConfiguracion.h"
+	"menuReportes.h"
+	"Dynamic.h"
+
+1696462454 e:\tp-parcial\class_fecha.h
+
+1694696914 e:\tp-parcial\cargarcadena.h
+
+1696446612 e:\tp-parcial\class_deportes.h
+
+1696463960 e:\tp-parcial\class_archivo_deportes.h
+
+1696465076 e:\tp-parcial\class_jugador.h
+
+1696461282 e:\tp-parcial\class_archivo_jugadores.h
+
+1696460810 e:\tp-parcial\funciones_configuracion.h
+
+1696459556 e:\tp-parcial\menudeportes.h
+
+1696459310 e:\tp-parcial\menu_jugadores.h
+
+1696466032 e:\tp-parcial\menuconfiguracion.h
+
+1695910562 e:\tp-parcial\funciones_reportes.h
+
+1696509134 e:\tp-parcial\menureportes.h
+
+1696509724 e:\tp-parcial\reportes.h
+
+1696509724 d:\tp-parcial\reportes.h
+
+1696509134 d:\tp-parcial\menureportes.h
+
+1696465914 d:\tp-parcial\datosinicio.h
+
+1696465914 e:\tp-parcial\datosinicio.h
+
+1697114898 e:\tp-parcial\dynamic.h
+
+1697115108 d:\tp-parcial\dynamic.h
+
+1702352126 source:d:\app-\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	"CLASS_FECHA.h"
+	"CargarCadena.h"
+	"CLASS_DEPORTES.h"
+	"CLASS_ARCHIVO_DEPORTES.h"
+	"CLASS_JUGADOR.h"
+	"CLASS_ARCHIVO_JUGADORES.h"
+	"FUNCIONES_CONFIGURACION.h"
+	"Reportes.h"
+	"DatosInicio.h"
+	"MenuDeportes.h"
+	"Menu_Jugadores.h"
+	"MenuConfiguracion.h"
+	"menuReportes.h"
+	"Dynamic.h"
+
+1696462454 d:\app-\class_fecha.h
+
+1694696914 d:\app-\cargarcadena.h
+
+1696446612 d:\app-\class_deportes.h
+
+1696463960 d:\app-\class_archivo_deportes.h
+
+1696465076 d:\app-\class_jugador.h
+
+1696461282 d:\app-\class_archivo_jugadores.h
+
+1696460810 d:\app-\funciones_configuracion.h
+
+1696509724 d:\app-\reportes.h
+
+1696465914 d:\app-\datosinicio.h
+
+1696459556 d:\app-\menudeportes.h
+
+1702352172 d:\app-\menu_jugadores.h
+
+1696466032 d:\app-\menuconfiguracion.h
+
+1702352194 d:\app-\menureportes.h
+
+1702351990 d:\app-\dynamic.h
+
